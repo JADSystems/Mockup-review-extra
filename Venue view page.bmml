@@ -1,0 +1,229 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1265" measuredH="747" mockupW="866" mockupH="717">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="399" y="30" w="866" h="717" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>2848996</color>
+        <text>www.TrekTip.com</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="399" y="163" w="846" h="70" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="501" y="190" w="266" h="-1" measuredW="206" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>18</size>
+        <text>Where%20are%20you%20going%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="399" y="102" w="846" h="61" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="429" y="117" w="59" h="42" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>file%3A///Users/friedsquirrel17/Documents/BMML%20MOCKUP/assets/TrekTrip%20Logo.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="501" y="119" w="117" h="-1" measuredW="96" measuredH="36" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Landing%20Logged-in%26bm%3BLanding%20Logged-in.bmml%26bm%3BLanding%20Logged-in.bmml%26bm%3BLanding%20Logged-in.bmml</href>
+        <size>28</size>
+        <text>TrekTip</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="618" y="128" w="-1" h="-1" measuredW="254" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Navigate%2C%20Create%20events%2C%20and%20invite%20anyone%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SearchBox" x="782" y="190" w="266" h="-1" measuredW="120" measuredH="30" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>18</size>
+        <text>SkateZone</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="1097" y="125" w="63" h="-1" measuredW="61" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Profile%20Page%202%26bm%3BProfile%20Page%202.bmml%26bm%3BProfile%20Page%202.bmml%26bm%3BProfile%20Page%202.bmml</href>
+        <size>18</size>
+        <text>Hi%2C%20Nick</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="1063" y="193" w="-1" h="-1" measuredW="98" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Search%20Results%20Page%202-2%26bm%3BSearch%20Results%20Page%202-2.bmml%26bm%3BSearch%20Results%20Page%202-2.bmml%26bm%3BSearch%20Results%20Page%202-2.bmml</href>
+        <size>24</size>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="399" y="709" w="846" h="38" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="441" y="167" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>Landing%20Logged-in%26bm%3BLanding%20Logged-in.bmml%26bm%3BLanding%20Logged-in.bmml%26bm%3BLanding%20Logged-in.bmml</href>
+        <text>Home%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="414" y="717" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%A92015%20TrekTip</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::LinkBar" x="1044" y="718" w="-1" h="-1" measuredW="192" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20Us%2C%20Contact%2C%20Site%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Image" x="426" y="260" w="796" h="428" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>file%3A///Users/friedsquirrel17/Documents/BMML%20MOCKUP/assets/map2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="__group__" x="447" y="280" w="290" h="303" measuredW="290" measuredH="303" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties/>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="290" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="60"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="8" w="167" h="-1" measuredW="159" measuredH="22" zOrder="1" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>Palm%20Beach%20Skate%20Zone</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="182" y="60" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="2" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>%28561%29%20963-5900</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="28" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="3" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>8125%20Lake%20Worth%20Rd</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="15" y="47" w="-1" h="-1" measuredW="133" measuredH="21" zOrder="4" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>Lake%20Worth%2C%20FL%2033467</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="182" y="43" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="5" locked="false" isInGroup="60">
+          <controlProperties>
+            <href>http%3A//pbskatezone.com</href>
+            <text>pbskatezone.com</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="221" y="15" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="6" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>Directions</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="108" w="263" h="195" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="60"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="9" y="207" w="-1" h="-1" measuredW="110" measuredH="24" zOrder="8" locked="false" isInGroup="60">
+          <controlProperties>
+            <size>16</size>
+            <text>Venues%20offered</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="9" y="231" w="-1" h="-1" measuredW="233" measuredH="19" zOrder="9" locked="false" isInGroup="60">
+          <controlProperties>
+            <size>11</size>
+            <text>This%20venerable%20skating%20complex%20features%202%20ice%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="9" y="246" w="-1" h="-1" measuredW="146" measuredH="19" zOrder="10" locked="false" isInGroup="60">
+          <controlProperties>
+            <size>11</size>
+            <text>skating%20rinks%2C%201%20roller%20rink%2C%20an%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="155" y="246" w="-1" h="-1" measuredW="106" measuredH="19" zOrder="11" locked="false" isInGroup="60">
+          <controlProperties>
+            <size>11</size>
+            <text>arcade%20%26%20a%20pro%20shop.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="9" y="272" w="-1" h="-1" measuredW="78" measuredH="20" zOrder="12" locked="false" isInGroup="60">
+          <controlProperties>
+            <href>Event%20Creator%20Page%26bm%3BEvent%20Creator%20Page.bmml%26bm%3BEvent%20Creator%20Page.bmml%26bm%3BEvent%20Creator%20Page.bmml</href>
+            <size>12</size>
+            <text>Book%20an%20event</text>
+            <underline>true</underline>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="155" y="212" w="-1" h="-1" measuredW="97" measuredH="21" zOrder="13" locked="false" isInGroup="60">
+          <controlProperties>
+            <href>Events%20view%20page%26bm%3BEvents%20view%20page.bmml%26bm%3BEvents%20view%20page.bmml%26bm%3BEvents%20view%20page.bmml</href>
+            <text>5%20events%20booked</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::HRule" x="185" y="35" w="96" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="60">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <stroke>dotted</stroke>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="9" y="116" w="154" h="53" measuredW="77" measuredH="79" zOrder="15" locked="false" isInGroup="60">
+          <controlProperties>
+            <src>file%3A///Users/friedsquirrel17/Documents/BMML%20MOCKUP/assets/4ef7ab389253f.image.jpg</src>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="171" y="116" w="84" h="53" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="60">
+          <controlProperties>
+            <src>file%3A///Users/friedsquirrel17/Documents/BMML%20MOCKUP/assets/2197_Aluminum_Bleacher_Seating_at_Virtua_Flyers_Skate_Zone_at_Voorhees.jpg</src>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="9" y="181" w="-1" h="-1" measuredW="71" measuredH="24" zOrder="17" locked="false" isInGroup="60">
+          <controlProperties>
+            <color>11820806</color>
+            <size>16</size>
+            <text>4.0%20stars%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="82" y="185" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="18" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>3%20reviews</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::Link" x="102" y="272" w="-1" h="-1" measuredW="80" measuredH="20" zOrder="19" locked="false" isInGroup="60">
+          <controlProperties>
+            <href>Write%20a%20Review%26bm%3BWrite%20a%20Review.bmml%26bm%3BWrite%20a%20Review.bmml%26bm%3BWrite%20a%20Review.bmml</href>
+            <size>12</size>
+            <text>Write%20a%20review</text>
+            <underline>true</underline>
+          </controlProperties>
+        </control>
+        <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="92" y="268" w="35" h="-1" measuredW="10" measuredH="28" zOrder="20" locked="false" isInGroup="60">
+          <controlProperties>
+            <size>20</size>
+            <text>%u2022</text>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::Link" x="15" y="78" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="21" locked="false" isInGroup="60">
+          <controlProperties>
+            <href>Search%20Results%20Page%202-2%26bm%3BSearch%20Results%20Page%202-2.bmml%26bm%3BSearch%20Results%20Page%202-2.bmml%26bm%3BSearch%20Results%20Page%202-2.bmml</href>
+            <text>Not%20what%20you%20wanted%3F</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Paragraph" x="1160" y="126" w="85" h="23" measuredW="275" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Landing%20Page%20unsigned%20in%26bm%3BLanding%20Page%20unsigned%20in.bmml%26bm%3BLanding%20Page%20unsigned%20in.bmml%26bm%3BLanding%20Page%20unsigned%20in.bmml</href>
+        <size>18</size>
+        <text>%20%7C%20Signout</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="479" y="167" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>%3E%20Map%20Venue</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
